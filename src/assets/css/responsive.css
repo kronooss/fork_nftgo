@@ -1,0 +1,1120 @@
+@media screen and (max-width: 1199px) {
+    .navbar-form input {
+        padding: 20px 19px;
+        min-width: 286px;
+        border-radius: 12px;
+    }
+
+    .navbar-form a i {
+        font-size: 20px;
+    }
+
+    .navbar-form a {
+        padding: 14px 16px;
+        border-radius: 12px;
+    }
+
+    .navbar-form select {
+        padding: 16px 12px;
+        margin: 0 3px;
+        border-radius: 12px;
+    }
+
+    .navbar-con .nav-item {
+        padding: 0 16px;
+    }
+
+    h1 {
+        font-size: 40px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 20px;
+    }
+
+    p {
+        font-size: 18px;
+        line-height: 20px;
+    }
+
+    .banner-content p {
+        margin-bottom: 28px;
+    }
+
+    .banner-con a {
+        margin-bottom: 22px;
+    }
+
+    .generic-btn a {
+        padding: 16px 26px;
+        border-radius: 14px;
+        line-height: 16px;
+    }
+
+    .banner-con span i {
+        font-size: 16px;
+    }
+
+    .buyer-box-title li span {
+        padding: 0 2px;
+    }
+
+    .buyer-box-title li span {
+        font-size: 12px;
+    }
+
+    .buyer-box-title ul li {
+        padding: 8px 12px;
+        border-radius: 14px;
+    }
+
+    .buyer-list-head {
+        padding: 16px 48px;
+        border-radius: 14px 14px 0 0;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    .buyer-list-body ul {
+        padding: 14px 34px;
+    }
+
+    .tracking-left-con {
+        border-radius: 18px;
+        padding: 26px 17px;
+    }
+
+    .tracking-left-con h3 {
+        margin-bottom: 14px;
+    }
+
+    h3 {
+        font-size: 26px;
+        line-height: 34px;
+    }
+
+    .tracking-left-con p {
+        margin-bottom: 10px;
+    }
+
+    .tracking-left-con h4 {
+        margin-bottom: 14px;
+        font-size: 22px;
+    }
+
+    .auther-name p {
+        padding-left: 9px;
+        margin-top: 23px;
+    }
+
+    .tracking-left-con .auther-name {
+        margin-bottom: 14px;
+    }
+
+    .tracking-right-con ul {
+        padding: 18px 6px 22px;
+    }
+
+    .tracking-right-con ul li p {
+        font-size: 12px;
+        margin: 0 1px;
+        white-space: nowrap;
+        min-width: auto;
+    }
+
+    .tracking-right-con .bought-btn {
+        padding: 6px 10px;
+        font-size: 12px;
+    }
+
+    .tracking-right-con ul li p:nth-child(6) {
+        min-width: 208px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 80px;
+    }
+
+    .padding-top {
+        padding-top: 80px;
+    }
+
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .generic-title h2 {
+        margin-bottom: 14px;
+    }
+
+    .generic-title span {
+        margin-bottom: 40px;
+    }
+
+    .time-con {
+        padding: 5px 16px;
+        margin-bottom: 14px;
+    }
+
+    .price-con {
+        margin-top: 20px;
+        padding-top: 14px;
+    }
+
+    .price-con ul li span {
+        padding-left: 8px;
+        padding-top: 8px;
+        white-space: nowrap;
+    }
+
+    .service-bottom-box .social-icon li a {
+        font-size: 18px;
+        margin-right: 4px;
+    }
+
+    .service-bottom-box .date-con .fa-calendar-plus {
+        width: 46px;
+        height: 46px;
+        border-radius: 14px;
+        font-size: 16px;
+        margin-right: 4px;
+    }
+
+    .service-bottom-box .date-con li:last-child a {
+        padding: 15px 26px;
+        border-radius: 14px;
+    }
+
+    .service-box-item {
+        padding: 20px 14px;
+    }
+
+    .research-box-item2 .research-box-body {
+        border-radius: 13px;
+    }
+
+    .research-box-body {
+        padding: 24px 21px 15px 15px;
+    }
+
+    .research-box-item h6 {
+        font-size: 16px;
+    }
+
+    .research-box-item2 img {
+        height: 220px;
+    }
+
+    .research-box-item2 .research-box-body {
+        width: 48%;
+    }
+
+    .added-box-item {
+        padding: 20px 14px;
+    }
+
+    .added-auther-con {
+        margin-bottom: 12px;
+    }
+
+    .added-box-item ul li:nth-child(2) {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .added-box-item figure {
+        margin-right: 10px;
+    }
+
+    .added-box .row:nth-child(2) {
+        margin-bottom: 30px;
+    }
+
+    .blog-item-list {
+        padding: 8px 10px;
+    }
+
+    .blog-item-list img {
+        width: 22px;
+        height: 22px;
+    }
+
+    .blog-item-list ul li span {
+        margin-top: 0;
+    }
+
+    .blog-box .row:first-child {
+        margin-bottom: 38px;
+    }
+
+    .blog-btn {
+        margin-top: 30px;
+    }
+
+    .news-letter-box {
+        padding: 70px 20px
+    }
+
+    .news-letter-box h3 {
+        margin-bottom: 18px;
+    }
+
+    .news-letter-box p {
+        margin-bottom: 24px;
+    }
+
+    .input-feild {
+        width: 70%;
+        height: auto;
+    }
+
+    .copyright-con figure {
+        margin-bottom: 14px;
+    }
+
+    .copyright-con p {
+        margin-bottom: 24px;
+    }
+
+    .copyright-con span {
+        margin-bottom: 10px;
+    }
+
+    .weigth-footer-content h6 {
+        margin-bottom: 20px;
+    }
+
+    .hiring-con {
+        padding: 15px 10px;
+        width: auto;
+    }
+
+    .weigth-footer-con {
+        padding-bottom: 70px;
+    }
+
+    .banner-title {
+        margin-bottom: 34px;
+    }
+
+    .submit-btn {
+        margin-bottom: 24px;
+    }
+
+    .banner-date {
+        margin-bottom: 22px;
+    }
+
+    .time-con li {
+        margin: 0 20px;
+    }
+
+    .drop-img {
+        margin-bottom: 24px;
+    }
+
+    .generic-btn a, #myBtnContainer button, .generic-btn select {
+        padding: 18px 17px;
+    }
+
+    #myBtnContainer {
+        margin-bottom: 32px;
+    }
+
+    .overview-box-item {
+        padding: 26px 11px;
+    }
+
+    .buyer-list-body {
+        margin-bottom: 45px;
+    }
+
+    .collections-table tr th {
+        padding: 10px 12px;
+        padding: 10px 4px;
+        font-size: 12px;
+    }
+
+    .collections-table tbody tr td {
+        padding: 14px 8px;
+    }
+
+    .leaderboard-title {
+        padding: 14px 14px;
+    }
+
+    .leaderboard-buyers-table .leaderboard-title .generic-btn a {
+        padding: 13px 8px;
+        font-size: 14px;
+    }
+
+    .leaderboard-buyers-table .leaderboard-title .generic-btn a {
+        padding: 13px 8px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .leaderboard-buyers-table .col-lg-6:first-child {
+        margin-bottom: 15px;
+    }
+
+    .navbar-form {
+        display: none !important;
+    }
+
+    .leaderboard-buyers-table {
+        margin-top: 15px;
+    }
+
+    .generic-btn a, #myBtnContainer button, .generic-btn select {
+        padding: 14px 15px;
+    }
+
+    .pagination-con li a {
+        padding: 11px 14px;
+        font-size: 12px;
+        border-radius: 10px;
+    }
+
+    .top-collections-input-feild:before {
+        top: 56px;
+    }
+
+    .top-collections-input {
+        margin-bottom: 23px;
+    }
+
+    .top-collections-rt-input .generic-btn a {
+        margin-bottom: 6px;
+    }
+
+    .top-collections-rt-input {
+        text-align: center;
+    }
+
+    .collections-table tbody tr:last-child td span {
+        padding-right: 0;
+        font-size: 12px;
+    }
+
+    .navbar-collapse {
+        background: #6418c3;
+        padding: 8px 0;
+        min-width: 100% !important;
+        float: right;
+        position: absolute;
+        right: 0;
+        top: 48px;
+        z-index: 2;
+    }
+
+    .navbar-con .nav-item {
+        padding: 7px 14px !important;
+    }
+
+    .navbar-toggler-icon {
+        border-bottom: 2px solid #ff4c41;
+        display: block;
+        height: 10px;
+        background-image: none !important;
+    }
+
+    .navbar-toggler:not(.collapsed) span:nth-child(1) {
+        transform: rotate(45deg);
+        transform-origin: 0% 186%;
+    }
+
+    .navbar-toggler span.navbar-toggler-icon {
+        transition: all 0.15s;
+    }
+
+    .navbar-toggler:not(.collapsed) span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .navbar-toggler:not(.collapsed) span:nth-child(3) {
+        transform: rotate(-45deg);
+        transform-origin: 24% 28%;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-light .navbar-toggler:focus {
+        outline: none;
+    }
+
+    .banner-con {
+        padding-top: 52px;
+        padding-bottom: 28px;
+    }
+
+    h1 {
+        font-size: 34px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 16px;
+    }
+
+    .generic-btn a {
+        padding: 13px 24px 14px;
+    }
+
+    .buyer-box-title ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .buyer-box-title ul li {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .buyer-box-title ul {
+        margin-bottom: 18px;
+    }
+
+    .auther-name {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .auther-name p {
+        margin-top: 0;
+    }
+
+    .tracking-left-con {
+        margin-bottom: 15px;
+    }
+
+    .buyer-list-body {
+        margin-bottom: 30px;
+    }
+
+    .time-con li {
+        margin: 0 93px;
+    }
+
+    .service-box-item,
+    .research-box-item {
+        margin-bottom: 20px;
+    }
+
+    .added-box-item {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .added-auther-con {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .added-box .row:nth-child(2) {
+        margin-bottom: 20px;
+    }
+
+    .added-box .row:first-child {
+        margin-bottom: 0;
+    }
+
+    .blog-item-box figure img[alt="blog-img"] {
+        width: 100%;
+        height: 350px;
+    }
+
+    .blog-item-box {
+        margin-bottom: 15px;
+    }
+
+    .blog-box .row:first-child {
+        margin-bottom: 24px;
+    }
+
+    .padding-top {
+        padding-top: 60px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 60px;
+    }
+
+    .weigth-footer-con {
+        padding-bottom: 50px;
+    }
+
+    .hiring-con {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hiring-con figure {
+        display: block !important;
+    }
+
+    .hiring-con span {
+        padding-left: 0;
+        white-space: normal;
+        display: inline-block;
+    }
+
+    .news-letter-box {
+        padding: 50px 15px;
+    }
+
+    .input-feild input {
+        width: 62%;
+    }
+
+    .tracking-right-con ul li p:nth-child(6) {
+        min-width: 280px;
+    }
+
+    .tracking-right-con ul li p {
+        min-width: 137px;
+    }
+
+    .tracking-con {
+        padding: 20px;
+        border-radius: 18px;
+    }
+
+    .drop-img {
+        margin-bottom: 14px;
+    }
+
+    .drops-service .service-box .row {
+        margin-bottom: 0;
+    }
+
+    .banner-title {
+        margin-bottom: 24px;
+    }
+
+    .submit-btn {
+        margin-bottom: 12px;
+    }
+
+    .banner-date {
+        margin-bottom: 14px;
+    }
+
+    .tracking-design {
+        display: none;
+    }
+
+    #myBtnContainer button {
+        padding: 15px 6px;
+        font-size: 14px;
+    }
+
+    .overview-box-item {
+        padding: 16px 33px;
+        margin-bottom: 10px;
+    }
+
+    .overview-box-item span {
+        margin-bottom: 18px;
+    }
+
+    .line-bar {
+        margin-bottom: 14px;
+    }
+
+    .static-con ul li span {
+        margin-bottom: 4px;
+    }
+
+    .overview-box {
+        padding: 30px;
+    }
+
+    .buyer-list-head {
+        padding: 14px 30px;
+    }
+
+    #myBtnContainer button {
+        margin-right: 6px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #myBtnContainer button {
+        padding: 12px 6px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .leaderboard-title h5 {
+        margin-bottom: 10px !important;
+    }
+
+    .collections-table {
+        display: block;
+        overflow: scroll;
+    }
+
+    .leaderboard-table {
+        display: table;
+    }
+
+    .top-collections-input-feild {
+        margin-bottom: 10px;
+    }
+
+    .top-collections-input-feild:before {
+        top: 14px;
+    }
+
+    #myBtnContainer {
+        margin-bottom: 18px;
+    }
+
+    .overview-box {
+        padding: 22px 20px;
+    }
+
+    .buyer-list-head {
+        padding: 14px 24px;
+    }
+
+    .overview-box-item {
+        padding: 16px 24px;
+    }
+
+    .overview-box-title {
+        margin-bottom: 26px;
+    }
+
+    .buyer-list-body {
+        margin-bottom: 20px;
+    }
+
+    .line-bar .line-bar-progress {
+        height: 12px;
+        margin-right: 6px;
+    }
+
+    .overview-box-title .generic-btn a, .generic-btn select {
+        padding: 14px 10px;
+    }
+
+    h1 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 14px;
+    }
+
+    .banner-content p {
+        margin-bottom: 22px;
+    }
+
+    .banner-con {
+        padding-top: 40px;
+        padding-bottom: 24px;
+    }
+
+    .buyer-box-title ul {
+        margin-bottom: 12px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    .generic-btn a {
+        font-size: 14px;
+    }
+
+    .tracking-right-con ul li p:nth-child(6) {
+        min-width: 280px;
+    }
+
+    .tracking-right-con ul li p {
+        min-width: 136px;
+    }
+
+    .tracking-right-con ul {
+        padding: 15px 12px 15px;
+    }
+
+    .generic-title span {
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+
+    .blog-btn {
+        margin-top: 16px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 40px;
+    }
+
+    .padding-top {
+        padding-top: 40px;
+    }
+
+    h3 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+
+    .news-letter-box p {
+        margin-bottom: 19px;
+    }
+
+    .banner-con a i {
+        margin-left: 8px;
+        font-size: 16px;
+        top: 3px;
+    }
+
+    .added-btn .generic-btn a i {
+        margin-left: 8px;
+    }
+
+    .blog-btn a i {
+        padding-left: 8px;
+    }
+
+    .blog-item-box figure img[alt="blog-img"] {
+        height: auto;
+    }
+
+    .copyright-con p {
+        margin-bottom: 10px;
+        line-height: 16px;
+    }
+
+    .weigth-footer-content {
+        margin-bottom: 14px;
+    }
+
+    .weigth-footer-content h6 {
+        margin-bottom: 6px;
+    }
+
+    .sitemap-con li a {
+        line-height: 24px;
+    }
+
+    .hiring-con {
+        width: auto;
+        padding: 10px 5px;
+    }
+
+    .hiring-con span {
+        font-size: 12px;
+    }
+
+    .time-con li {
+        margin: 0 60px;
+    }
+
+    .tracking-right-con ul li p {
+        min-width: 78px;
+    }
+
+    .tracking-right-con ul li p:nth-child(6) {
+        min-width: 150px;
+    }
+
+    .tracking-right-con ul li p {
+        min-width: 54px;
+    }
+
+    .tracking-right-con .bought-btn {
+        padding: 6px 6px;
+        font-size: 10px;
+    }
+
+    .tracking-right-con ul li a i {
+        padding-left: 4px;
+        font-size: 14px;
+    }
+
+    .buyer-list-body ul li:first-child {
+        width: 42%;
+    }
+
+    .buyer-list-body ul {
+        padding: 14px 16px;
+    }
+
+    .buyer-list-body ul li span {
+        padding-right: 2px;
+    }
+
+    .buyer-list-body ul li img {
+        padding-right: 0;
+    }
+
+    .buyer-list-body ul li {
+        font-size: 12px;
+    }
+
+    .tracking-left-con h4 {
+        margin-bottom: 9px;
+        font-size: 18px;
+    }
+
+    .tracking-left-con img {
+        width: 50px;
+    }
+
+    .weigth-footer-con {
+        padding-bottom: 40px;
+    }
+
+    .tracking-con {
+        padding: 15px;
+    }
+
+    .banner-title {
+        margin-bottom: 20px;
+    }
+
+    .sub-banner span .fa-angle-left {
+        padding: 0 10px 0 8px;
+    }
+
+    .sub-banner span .fa-angle-right {
+        padding-left: 6px;
+    }
+
+    .top-collections-rt-input .generic-btn a {
+        margin-bottom: 4px;
+    }
+
+    #myBtnContainer {
+        text-align: center;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    .main-box {
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .leaderboard-table {
+        display: block;
+    }
+
+    h1 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .input-feild button {
+        padding: 10px 18px;
+    }
+
+    .input-feild {
+        padding: 10px;
+    }
+
+    .buyer-box-title ul li:nth-child(2) {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .added-btn .generic-btn:first-child a {
+        margin-right: 2px;
+    }
+
+    .input-feild {
+        width: 100%;
+    }
+
+    .wrapper {
+        margin: 0;
+    }
+
+    .news-letter-box {
+        padding: 30px 15px;
+    }
+
+    .blog-item-body > span {
+        margin-bottom: 10px;
+    }
+
+    .banner-content p {
+        margin-bottom: 18px;
+    }
+
+    p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .overview-box-title .generic-btn a, .generic-btn select {
+        padding: 10px 13px;
+        font-size: 12px;
+    }
+
+    .banner-con a {
+        margin-bottom: 14px;
+    }
+
+    .banner-con {
+        padding-top: 30px;
+        padding-bottom: 24px;
+    }
+
+    .buyer-box-title li span {
+        font-size: 10px;
+    }
+
+    .buyer-list-head {
+        padding: 16px 24px;
+    }
+
+    .buyer-list-body ul li:first-child {
+        width: 100%;
+        margin-bottom: 10px !important;
+    }
+
+    .buyer-list-body {
+        text-align: center;
+    }
+
+    .buyer-list-body ul li {
+        width: 30%;
+    }
+
+    .time-con li {
+        margin: 0 30px;
+    }
+
+    .service-bottom-box .date-con li:last-child a {
+        padding: 10px 19px;
+        border-radius: 10px;
+    }
+
+    .service-bottom-box .date-con .fa-calendar-plus {
+        width: 41px;
+        height: 41px;
+        border-radius: 10px;
+        font-size: 16px;
+        margin-right: 4px;
+    }
+
+    h2 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    .generic-title span {
+        margin-bottom: 20px;
+    }
+
+    .research-box-item h6 {
+        margin-bottom: 10px;
+    }
+
+    .research-box-item ul {
+        padding-bottom: 14px;
+        margin-bottom: 14px;
+    }
+
+    .research-box-item2 .research-box-body {
+        width: 100%;
+    }
+
+    .research-box-item2 img {
+        height: auto;
+        width: 100%;
+    }
+
+    .added-auther-con img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .blog-item-box figure img[alt="blog-img"] {
+        height: 300px;
+    }
+
+    .blog-item-body {
+        padding: 15px 15px;
+    }
+
+    .padding-bottom {
+        padding-bottom: 30px;
+    }
+
+    .padding-top {
+        padding-top: 30px;
+    }
+
+    h3 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .weigth-footer-con {
+        padding-bottom: 24px;
+    }
+
+    h6 {
+        font-size: 16px;
+    }
+
+    #myBtnContainer button {
+        padding: 9px 15px;
+        font-size: 12px;
+        margin-bottom: 7px;
+    }
+
+    #myBtnContainer {
+        margin-bottom: 14px;
+    }
+
+    .static-con ul li:first-child,
+    .category-con ul li {
+        width: auto;
+    }
+
+    .switch {
+        width: 52px;
+        height: 30px;
+    }
+
+    .slider:before {
+        height: 20px;
+        width: 20px;
+        left: 1px;
+        bottom: 5px;
+    }
+
+    .top-collections-rt-input {
+        text-align: center;
+    }
+
+    .tracking-right-con ul li p {
+        min-width: 120px;
+        margin-bottom: 10px !important;
+    }
+
+    .tracking-right-con ul li p:nth-child(6) {
+        min-width: 182px;
+    }
+}
